@@ -1,0 +1,23 @@
+{
+  "name": "ember-data-sails-adapter",
+  "version": "2.1.1",
+  "main": "ember-data-sails-adapter.js",
+  "dependencies": {
+    "ember": "~1.0.0",
+    "ember-data": "~1.0.0-beta.9"
+  },
+  "devDependencies": {
+    "qunit": "~1.14.0"
+  },
+  "homepage": "https://github.com/bmac/ember-data-sails-adapter",
+  "_release": "2.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.1.1",
+    "commit": "b16cf67dabb2a29d3ef6a820e3884e1637e2dd6a"
+  },
+  "_source": "git://github.com/bmac/ember-data-sails-adapter.git",
+  "_target": "~2.1.1",
+  "_originalSource": "ember-data-sails-adapter",
+  "_direct": true
+}
